@@ -1,0 +1,11 @@
+.main-container {
+    border: solid black 5px;
+}
+.header {
+   
+    display: flex;
+}
+.pic-name {
+    display: flex;
+    width: 60%;
+}
