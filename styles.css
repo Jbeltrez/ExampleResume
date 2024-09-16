@@ -1,11 +1,35 @@
+body {
+    background-color: black;
+    padding: 40px;
+}
 .main-container {
     border: solid black 5px;
+    padding: 80px 30px;
+    background-color: gray;
+    height: 1000px;
 }
-.header {
-   
-    display: flex;
-}
+
 .pic-name {
     display: flex;
-    width: 60%;
+    width: 65%;
+    border: dotted black;
+}
+.contact-info {
+    border: dotted black;
+    
+}
+.pic-name-contact-info {
+    display: flex;
+}
+.body {
+    border: red 10 px;
+    display: flex;
+}
+.body-left {
+    display: flex;
+    border: solid orange;
+}
+.body-right {
+    display: flexbox;
+    border: solid yellow;
 }
